@@ -1,0 +1,9 @@
+encounter_id,patient_id,encounter_date,department,diagnosis_code,procedure_code,length_of_stay,charge_amount,encounter_status
+E1001,P001,2026-08-10,Cardiology,I10,99213,0,425.50,completed
+E1002,P002,2026-08-10,Emergency,J18.9,99285,1,1850.75,completed
+E1003,P003,2026-08-11,Oncology,C50.919,99214,0,610.00,completed
+E1004,P001,2026-08-11,Radiology,R07.9,71046,0,325.25,completed
+E1005,P004,2026-08-11,Emergency,S93.409A,99284,0,975.00,cancelled
+E1006,P005,2026-08-12,Primary Care,E11.9,99213,0,280.00,completed
+E1007,P002,2026-08-12,Cardiology,I50.9,93306,0,1450.00,completed
+E1008,P006,2026-08-12,Oncology,C34.90,96413,0,3250.00,completed
