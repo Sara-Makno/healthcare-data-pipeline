@@ -1,0 +1,2 @@
+encounter_id,reason,original_charge_amount
+E1009,could not convert string to float: 'UNKNOWN',UNKNOWN
